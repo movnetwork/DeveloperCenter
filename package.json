@@ -1,0 +1,21 @@
+{
+  "name": "bytom2",
+  "version": "1.1.0",
+  "description": "bytom",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "martinzlf <zhonglf@bytom.io>",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it-katex": "^2.0.3",
+    "vuepress": "^1.8.2"
+  },
+  "devDependencies": {
+    "vuepress-plugin-right-anchor": "^0.1.7"
+  },
+  "repository": "https://github.com/movnetwork/DeveloperCenter.git"
+}
